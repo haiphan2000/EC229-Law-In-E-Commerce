@@ -20,8 +20,8 @@ Vai trò của chính sách thuế đối với TMĐT:
 **Chính sách thuế đối với TMĐT tại các quốc gia trên thế giới.** Trình bày một số đặc điểm tiêu biểu của chính sách thuế đối với thương mại điện tử tại 2-3 quốc gia phát triển mạnh thương mại điện tử trên thế giới bao gồm Canada, Liên minh châu Âu (EU), Trung Quốc. Trong đó có thể kể đến những rủi ro chuyển lợi nhuận của các doanh nghiệp trong lĩnh vực TMĐT sang các quốc gia có mức thuế thấp hơn, các thiên đường thuế `(tax haven)`.
 
 <div align="center">
-  <img src="https://github.com/haiphan2000/EC229-Law-In-E-Commerce/assets/45815546/038af59a-6d01-42d2-a7e3-1712084493cb" width="500">
-  <img src="https://github.com/haiphan2000/EC229-Law-In-E-Commerce/assets/45815546/494e5878-b4a8-48c0-86ca-3c14d1e061f1" width="500">
+  <img src="https://github.com/haiphan2000/EC229-Law-In-E-Commerce/assets/45815546/038af59a-6d01-42d2-a7e3-1712084493cb" width="450">
+  <img src="https://github.com/haiphan2000/EC229-Law-In-E-Commerce/assets/45815546/494e5878-b4a8-48c0-86ca-3c14d1e061f1" width="450">
 </div>
 
 ### 2. Thực trạng chính sách thuế đối với thương mại điện tử tại Việt Nam
