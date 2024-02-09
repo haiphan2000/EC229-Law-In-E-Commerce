@@ -19,7 +19,9 @@ Vai trò của chính sách thuế đối với TMĐT:
 - Gia tăng nguồn thu ngân sách nhà nước.
 - Đảm bảo sự công bằng trong nghĩa vụ thuế giữa kinh doanh các hàng hoá, dịch vụ trong lĩnh vực TMĐT và lĩnh vực thương mại truyền thống.
 
-**Chính sách thuế đối với TMĐT tại các quốc gia trên thế giới.** Trình bày một số đặc điểm tiêu biểu của chính sách thuế đối với thương mại điện tử tại 2-3 quốc gia phát triển mạnh thương mại điện tử trên thế giới bao gồm Canada, Liên minh châu Âu (EU), Trung Quốc. Trong đó có thể kể đến những rủi ro chuyển lợi nhuận của các doanh nghiệp trong lĩnh vực TMĐT sang các quốc gia có mức thuế thấp hơn, các thiên đường thuế `(tax haven)`.
+**Chính sách thuế đối với TMĐT tại các quốc gia trên thế giới.**
+
+Trình bày một số đặc điểm tiêu biểu của chính sách thuế đối với thương mại điện tử tại 2-3 quốc gia phát triển mạnh thương mại điện tử trên thế giới bao gồm Canada, Liên minh châu Âu (EU), Trung Quốc. Trong đó có thể kể đến những rủi ro chuyển lợi nhuận của các doanh nghiệp trong lĩnh vực TMĐT sang các quốc gia có mức thuế thấp hơn, các thiên đường thuế `(tax haven)`.
 
 <div align="center">
   <img src="https://github.com/haiphan2000/EC229-Law-In-E-Commerce/assets/45815546/038af59a-6d01-42d2-a7e3-1712084493cb" width="400">
@@ -27,6 +29,7 @@ Vai trò của chính sách thuế đối với TMĐT:
 </div>
 
 **Thực trạng chính sách thuế đối với thương mại điện tử tại Việt Nam.**
+
 Chính sách thuế đối với TMĐT của Việt Nam hiện nay đã được bao quát lồng ghép vào các sắc thuế như _thuế giá trị gia tăng_ (GTGT), _thuế thu nhập doanh nghiệp_ (TNDN) và _thuế thu nhập cá nhân_ (TNCN).
 <div align="center">
   <img src="https://github.com/haiphan2000/EC229-Law-In-E-Commerce/assets/45815546/5cc4d352-8005-43c6-b76f-1f3ef8e0e23d" width="400">
