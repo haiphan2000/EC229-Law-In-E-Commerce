@@ -1,8 +1,8 @@
 # EC229 - Law In E-Commerce (Pháp Luật Trong Thương Mại Điện Tử)
 
-<p align="center">
+<div align="center">
   <img src="https://github.com/haiphan2000/EC229-Law-In-E-Commerce/assets/45815546/07b71462-6d4b-473d-aa42-5ea711e2d42c" alt="Description of the image">
-</p>
+</div>
 
 ## Giới Thiệu
 Đồ án này tập trung vào nghiên cứu và và phân tích các quy định và luật liên quan đến việc đóng thuế trong môi trường kinh doanh trực tuyến. Cụ thể, đồ án này trình bày những cách thức mà cơ quan chức năng (cơ quan thuế) đang tiến hành để thu thuế của các chủ thể có doanh thu trên các website, sàn giao dịch và mạng xã hội và các nền tảng công nghệ số khác Trong đó, 3 góc độ của các bên liên quan sẽ tập trung đi vào việc trả lời các câu hỏi sau:
@@ -18,8 +18,19 @@ Vai trò của chính sách thuế đối với TMĐT:
 - Đảm bảo sự công bằng trong nghĩa vụ thuế giữa kinh doanh các hàng hoá, dịch vụ trong lĩnh vực TMĐT và lĩnh vực thương mại truyền thống.
 
 **Chính sách thuế đối với TMĐT tại các quốc gia trên thế giới.** Trình bày một số đặc điểm tiêu biểu của chính sách thuế đối với thương mại điện tử tại 2-3 quốc gia phát triển mạnh thương mại điện tử trên thế giới bao gồm Canada, Liên minh châu Âu (EU), Trung Quốc. Trong đó có thể kể đến những rủi ro chuyển lợi nhuận của các doanh nghiệp trong lĩnh vực TMĐT sang các quốc gia có mức thuế thấp hơn, các thiên đường thuế `(tax haven)`.
+
+<div align="center">
+  <img src="https://github.com/haiphan2000/EC229-Law-In-E-Commerce/assets/45815546/038af59a-6d01-42d2-a7e3-1712084493cb" width="500">
+  <img src="https://github.com/haiphan2000/EC229-Law-In-E-Commerce/assets/45815546/494e5878-b4a8-48c0-86ca-3c14d1e061f1" width="500">
+</div>
+
 ### 2. Thực trạng chính sách thuế đối với thương mại điện tử tại Việt Nam
 Chính sách thuế đối với TMĐT của Việt Nam hiện nay đã được bao quát lồng ghép vào các sắc thuế như thuế giá trị gia tăng (GTGT), thuế thu nhập doanh nghiệp (TNDN) và thuế thu nhập cá nhân (TNCN).
+<div align="center">
+  <img src="https://github.com/haiphan2000/EC229-Law-In-E-Commerce/assets/45815546/4fcda32a-c5da-4e9d-b208-27f1dfc0f723" width="500">
+  <img src="https://github.com/haiphan2000/EC229-Law-In-E-Commerce/assets/45815546/d8a48f32-6115-4800-a72a-fc85892843bf" width="500">
+</div>
+
 Các văn bản quy phạm pháp luật liên quan đến chính sách thuế đối với thương mại điện tử Việt Nam bao gồm:
 - Nghị định số 126/2020/NĐ-CP về Luật Quản lý thuế.
 - Thông tư số 40/2021/TT-BTC và 100/2021/TT-BTC quy định:
