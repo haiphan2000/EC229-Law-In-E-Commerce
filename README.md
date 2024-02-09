@@ -33,6 +33,7 @@ Chính sách thuế đối với TMĐT của Việt Nam hiện nay đã được
   <img src="https://github.com/haiphan2000/EC229-Law-In-E-Commerce/assets/45815546/4fcda32a-c5da-4e9d-b208-27f1dfc0f723" width="400">
 </div>
 Các văn bản quy phạm pháp luật liên quan đến chính sách thuế đối với thương mại điện tử Việt Nam bao gồm:
+
 - **Nghị định số 126/2020/NĐ-CP** về Luật Quản lý thuế.
 - **Thông tư số 40/2021/TT-BTC** và **100/2021/TT-BTC** quy định:
   + Trách nhiệm kê khai, nộp thuế thay. Trong đó, tại điểm đ mục 2 điều 1 của Thông tư số 100 có quy định: **Tổ chức bao gồm cả chủ sở hữu Sàn giao dịch thương mại điện tử thực hiện việc khai thuế thay, nộp thuế thay cho cá nhân trên cơ sở ủy quyền theo quy định của pháp luật dân sự**.
