@@ -10,6 +10,8 @@
 - Vai trò của sàn giao dịch điện tử trong việc dung hòa lợi ích của bên bán và lợi ích của cơ quan chức năng đối với hoạt động quản lý thuế.
 - Ở góc độ của cơ quan thuế, dựa vào quy định nào hoặc bạn có đề xuất nào để tối đa hóa số thuế thu được từ các hoạt động thương mại điện tử (TMĐT) tạo ra môi trường kinh doanh công bằng cho tất cả cá nhân và doanh nghiệp ở các hình thức khác nhau?
 ## Tóm Tắt Nội Dung
+_Những hình ảnh dưới đây chỉ minh hoạ một số slide trong bài báo cáo chứ không phải là toàn bộ nội dung báo cáo_
+
 ### 1. MỘT SỐ VẤN ĐỀ CHUNG VỀ CHÍNH SÁCH THUẾ TRONG LĨNH VỰC TMĐT
 **Đặc điểm và vai trò của chính sách thuế đối với TMĐT.**
 
