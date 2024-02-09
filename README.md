@@ -10,8 +10,8 @@
 - Vai trò của sàn giao dịch điện tử trong việc dung hòa lợi ích của bên bán và lợi ích của cơ quan chức năng đối với hoạt động quản lý thuế.
 - Ở góc độ của cơ quan thuế, dựa vào quy định nào hoặc bạn có đề xuất nào để tối đa hóa số thuế thu được từ các hoạt động thương mại điện tử (TMĐT) tạo ra môi trường kinh doanh công bằng cho tất cả cá nhân và doanh nghiệp ở các hình thức khác nhau?
 ## Tóm Tắt Nội Dung
-### 1. MỘT SỐ VẤN ĐỀ CHUNG VỀ CHÍNH SÁCH THUẾ TRONG LĨNH VỰC THƯƠNG MẠI ĐIỆN TỬ
-**Đặc điểm và vai trò của chính sách thuế đối với thương mại điện tử.**
+### 1. MỘT SỐ VẤN ĐỀ CHUNG VỀ CHÍNH SÁCH THUẾ TRONG LĨNH VỰC TMĐT
+**Đặc điểm và vai trò của chính sách thuế đối với TMĐT.**
 
 CFA đưa 5 yếu tố quan trọng trong việc xây dựng chính sách thuế trong TMĐT: Tính _trung lập_; tính _hiệu quả_; tính _chính xác, rõ ràng_; tính _công bằng_; tính _linh hoạt_.
 
@@ -32,8 +32,6 @@ Chính sách thuế đối với TMĐT của Việt Nam hiện nay đã được
   <img src="https://github.com/haiphan2000/EC229-Law-In-E-Commerce/assets/45815546/5cc4d352-8005-43c6-b76f-1f3ef8e0e23d" width="400">
   <img src="https://github.com/haiphan2000/EC229-Law-In-E-Commerce/assets/45815546/4fcda32a-c5da-4e9d-b208-27f1dfc0f723" width="400">
 </div>
-
-## 2. VẤN ĐỀ THUẾ TRONG CÔNG TÁC QUẢN LÝ THUẾ ĐỐI VỚI TMĐT
 Các văn bản quy phạm pháp luật liên quan đến chính sách thuế đối với thương mại điện tử Việt Nam bao gồm:
 - **Nghị định số 126/2020/NĐ-CP** về Luật Quản lý thuế.
 - **Thông tư số 40/2021/TT-BTC** và **100/2021/TT-BTC** quy định:
@@ -47,6 +45,7 @@ Khó khăn của sàn giao dịch:
 - Tạo ra áp lực rất lớn về tài chính cho sàn khi phải ứng trước một khoản tiền thuế từ người bán phải đóng.
 - Không có đủ công cụ cũng như quyền lực để thực thi yêu cầu người bán trả lại tiền thuế mà sàn đã đóng thay.
 
+## 2. VẤN ĐỀ THUẾ TRONG CÔNG TÁC QUẢN LÝ THUẾ ĐỐI VỚI TMĐT
 `Trốn thuế` (tax evasion) là hành vi phạm pháp của các cá nhân và pháp nhân nhằm không phải nộp thuế hoặc không phải nộp đủ số thuế mà họ phải đóng. Trốn thuế khác với `tránh thuế` (tax avoidance) – hành vi hợp pháp nhằm giảm thiểu số thuế phải đóng.
 Một số hình thức trốn thuế:
 - Bên bán cố tình hoặc vô ý không đăng ký kinh doanh/đăng ký nộp thuế.
